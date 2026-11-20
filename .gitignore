@@ -41,4 +41,5 @@ node_modules/
 # Other
 *.wav
 web/test-results/
+
 config.bat
